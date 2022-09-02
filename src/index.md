@@ -12,10 +12,10 @@ hero:
   actions:
    - theme: brand
      text: 开始
-     link: /deploy/
+     link: /old/deploy/
    - theme: alt
      text: 介绍
-     link: /introduce/
+     link: /old/introduce/
    - theme: alt
      text: GitHub 仓库
      link: https://github.com/mx-space
